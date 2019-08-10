@@ -1,7 +1,7 @@
 Created ASP .net Core Web API in VS 2019 Premium. Core logic is migrated from https://github.com/ritikapareek/Airlines
 
 **How to run:**
-VS 2019 > Debug > Start Without Debugging
+Visual studio 2019 Preview > AirlineNetwork.sln > Debug > Start Without Debugging
 Hit https://localhost:5001/api/shortestroute/JFK/YYZ on browser
 
 
